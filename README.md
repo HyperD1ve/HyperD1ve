@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2025 - To: 16 December 2025
+From: 18 November 2025 - To: 17 December 2025
 
-Total Time: 14 hrs 14 mins
+Total Time: 18 hrs 44 mins
 
-Python             5 hrs 49 mins   >>>>>>>>>>---------------   40.85 %
-Literate Haskell   1 hr 43 mins    >>>----------------------   12.05 %
-TypeScript         1 hr 39 mins    >>>----------------------   11.65 %
-Rust               1 hr 35 mins    >>>----------------------   11.16 %
-HTML               1 hr 2 mins     >>-----------------------   07.27 %
-JavaScript         45 mins         >------------------------   05.29 %
-YAML               36 mins         >------------------------   04.30 %
-Text               21 mins         >------------------------   02.56 %
-XML                16 mins         -------------------------   01.98 %
-Markdown           10 mins         -------------------------   01.18 %
+Literate Haskell   6 hrs 13 mins   >>>>>>>>-----------------   33.15 %
+Python             5 hrs 49 mins   >>>>>>>>-----------------   31.05 %
+TypeScript         1 hr 39 mins    >>-----------------------   08.86 %
+Rust               1 hr 35 mins    >>-----------------------   08.48 %
+HTML               1 hr 2 mins     >------------------------   05.52 %
+JavaScript         45 mins         >------------------------   04.02 %
+YAML               36 mins         >------------------------   03.27 %
+Text               21 mins         -------------------------   01.95 %
+XML                16 mins         -------------------------   01.51 %
+Markdown           10 mins         -------------------------   00.89 %
 ```
 
 <!--END_SECTION:waka-->
