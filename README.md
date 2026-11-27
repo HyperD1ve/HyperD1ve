@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2025 - To: 24 November 2026
+From: 18 November 2025 - To: 25 November 2026
 
-Total Time: 275 hrs 8 mins
+Total Time: 278 hrs 12 mins
 
-Haskell            39 hrs 3 mins   >>>----------------------   13.88 %
-Python             37 hrs 23 mins  >>>----------------------   13.29 %
-C++                34 hrs 4 mins   >>>----------------------   12.11 %
-Text               33 hrs 13 mins  >>>----------------------   11.81 %
-C                  33 hrs 7 mins   >>>----------------------   11.78 %
-Markdown           27 hrs 8 mins   >>-----------------------   09.65 %
-TypeScript         16 hrs 47 mins  >------------------------   05.97 %
-JavaScript         12 hrs 15 mins  >------------------------   04.36 %
-Literate Haskell   11 hrs 18 mins  >------------------------   04.02 %
-Racket             6 hrs 13 mins   >------------------------   02.21 %
+Haskell            39 hrs 3 mins   >>>----------------------   13.73 %
+Python             37 hrs 34 mins  >>>----------------------   13.22 %
+C++                34 hrs 29 mins  >>>----------------------   12.13 %
+Text               33 hrs 15 mins  >>>----------------------   11.70 %
+C                  33 hrs 7 mins   >>>----------------------   11.65 %
+Markdown           27 hrs 8 mins   >>-----------------------   09.54 %
+TypeScript         16 hrs 47 mins  >------------------------   05.91 %
+JavaScript         12 hrs 15 mins  >------------------------   04.31 %
+Literate Haskell   11 hrs 18 mins  >------------------------   03.98 %
+Racket             6 hrs 13 mins   >------------------------   02.19 %
 ```
 
 <!--END_SECTION:waka-->
